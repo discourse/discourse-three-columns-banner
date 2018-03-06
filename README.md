@@ -10,4 +10,4 @@ A theme component for Discourse to create a three-column banner
 ### Mobile view - Landscape
 <img src="https://discourse-meta.s3-us-west-1.amazonaws.com/original/3X/7/4/74f23decac8ed1c6137997221dbbbe0af50edfd7.gif">
 
-More infos at:
+More infos at: https://meta.discourse.org/t/banner-themes-and-instructions-for-customizing-them/82368
