@@ -1,6 +1,6 @@
 {
   "name": "Three columns banner",
   "about_url": "https://github.com/discourse/discourse-three-columns-banner",
-  "license_url": "https://github.com/discourse/discourse-three-columns-banner/blob/master/LICENSE",
+  "license_url": "https://github.com/discourse/discourse-three-columns-banner/blob/main/LICENSE",
   "component": true
 }
